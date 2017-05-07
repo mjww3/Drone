@@ -1,0 +1,8 @@
+prefix=/home/mukul/Landing/devel
+
+Name: land
+Description: Description of land
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mukul/Landing/devel/lib 
+Requires: 

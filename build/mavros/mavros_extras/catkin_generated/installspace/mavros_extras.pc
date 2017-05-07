@@ -1,0 +1,8 @@
+prefix=/home/mukul/Landing/install
+
+Name: mavros_extras
+Description: Description of mavros_extras
+Version: 0.12.0
+Cflags: -I/home/mukul/Landing/install/include -I/opt/ros/indigo/include
+Libs: -L/home/mukul/Landing/install/lib -lmavros_extras
+Requires: image_transport mavros roscpp sensor_msgs

@@ -1,0 +1,2 @@
+land:mav_comm/mav_comm:mav_comm/mav_msgs:mav_comm/planning_msgs:mavros/libmavconn:mavros/mavros:mavros/mavros_extras:mavros/test_mavros
+-DCATKIN_DEVEL_PREFIX=/home/mukul/Landing/devel -DCMAKE_INSTALL_PREFIX=/home/mukul/Landing/install -G Unix Makefiles

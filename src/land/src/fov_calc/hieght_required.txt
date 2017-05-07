@@ -1,0 +1,21 @@
+---when camera is looking vertically downwards----
+Ground distance in X plane = (Altitude / focal length of lens) * X length of camera sensor
+
+Ground distance in Y plane = (Altitude / focal length of lens) * Y length of camera sensor
+
+For the raspberry pi 
+(i.e for the raspicam)
+
+focal length = in mm = 3.6
+hieght of the sensor = 3.67 mm
+width = 2.74 mm
+
+so x distance = (alt/3.6)*3.67;
+since y  = (alt/3.6)*2.74
+since y is lesser so let y = 11;
+so 11*3.6/2.74 = alt(required) = 14.452 m ~ 14 metres
+
+
+-------------------------------------------------------------------------
+hiegth = 14m required
+-------------------------------------------------------------------------

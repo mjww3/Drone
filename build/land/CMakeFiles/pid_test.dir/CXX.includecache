@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mukul/Landing/src/land/src/pid/pid.h
+
+/home/mukul/Landing/src/land/src/pid/pid_test.cpp
+ros/ros.h
+-
+pid.h
+/home/mukul/Landing/src/land/src/pid/pid.h
+geometry_msgs/Quaternion.h
+-
+iostream
+-
+stdio.h
+-
+math.h
+-
+vector
+-
+

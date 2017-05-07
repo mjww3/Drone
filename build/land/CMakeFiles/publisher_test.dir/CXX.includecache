@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mukul/Landing/src/land/src/testpublisher.cpp
+ros/ros.h
+/home/mukul/Landing/src/land/src/ros/ros.h
+std_msgs/String.h
+/home/mukul/Landing/src/land/src/std_msgs/String.h
+sstream
+-
+

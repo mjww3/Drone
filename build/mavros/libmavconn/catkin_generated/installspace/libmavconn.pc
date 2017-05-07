@@ -1,0 +1,8 @@
+prefix=/home/mukul/Landing/install
+
+Name: libmavconn
+Description: Description of libmavconn
+Version: 0.12.0
+Cflags: -I/home/mukul/Landing/install/include -I/usr/include -I/opt/ros/indigo/include -I/usr/local/include
+Libs: -L/home/mukul/Landing/install/lib -lmavconn -l:/usr/lib/x86_64-linux-gnu/libboost_system.so -l:/usr/local/lib/libconsole_bridge.so
+Requires: 
